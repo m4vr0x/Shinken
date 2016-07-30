@@ -1,18 +1,18 @@
 #!/usr/bin/perl
 
-#------------------------------------------------------------
-#| ConfAudit.pl                                  			|
-#------------------------------------------------------------
-#|                                                          |
-#| v1.0 12/04/2015 - VMA 	* First draft					|
-#|							* Command function added		|
-#| v1.1 29/04/2015 - VMA 	* Service function added		|
-#| v1.2 23/09/2015 - VMA 	* Host function added			|
-#|					- Minor corrections						|
-#|															|                                        
-#|                                        					|
-#| ToDo : Add configuration file type control				|
-#|----------------------------------------------------------|
+#----------------------------------------------------------------
+#| ConfAudit.pl                                  		|
+#----------------------------------------------------------------
+#|                                                      	|
+#| v1.0 12/04/2015 - VMA 	* First draft			|
+#|				* Command function added	|
+#| v1.1 29/04/2015 - VMA 	* Service function added	|
+#| v1.2 23/09/2015 - VMA 	* Host function added		|
+#|				* Minor corrections		|
+#|								|                                        
+#|                                        			|
+#| ToDo : Add configuration file type control			|
+#|--------------------------------------------------------------|
 
 #--# Import des modules
 ########################
